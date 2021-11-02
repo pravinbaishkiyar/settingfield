@@ -1,0 +1,9 @@
+.setting-avatar {
+  width: 100%;
+  height: 100%;
+  background-color: grey;
+}
+
+.select-field {
+  margin-right: 4px;
+}
